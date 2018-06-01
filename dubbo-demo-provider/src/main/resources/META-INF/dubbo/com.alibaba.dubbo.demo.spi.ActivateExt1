@@ -1,0 +1,5 @@
+group=com.alibaba.dubbo.demo.spi.service.GroupActivateExtImpl
+value=com.alibaba.dubbo.demo.spi.service.ValueActivateExtImpl
+order1=com.alibaba.dubbo.demo.spi.service.OrderActivateExtImpl1
+order2=com.alibaba.dubbo.demo.spi.service.OrderActivateExtImpl2
+ext1=com.alibaba.dubbo.demo.spi.service.ActivateExt1Impl1
